@@ -49,7 +49,7 @@ Please ensure that your code follows the project's coding style and conventions.
 
 ## License
 
-cURLgui is open-source software licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+cURLgui is open-source software licensed under the Apache License 2.0. See the [LICENSE](LICENSE.txt) file for details.
 
 ---
 
